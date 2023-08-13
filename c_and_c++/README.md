@@ -1,4 +1,4 @@
-Just for w10,11 and other microsoft windows system
+Just for w10,11 and other microsoft windows operating system
 Reference: 
 用 VSCode 寫 C/C++ 教學
 https://hackmd.io/@liaojason2/vscodecppwindows
