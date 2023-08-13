@@ -1,3 +1,4 @@
+Java for w10,122 and other microsoft windows operating system 
 Reference: https://www.tokfun.net/os/windows/windows-install-java-jdk/
 
 Download:
