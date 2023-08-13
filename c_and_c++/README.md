@@ -35,6 +35,6 @@ put this in c++/.vscode  ***c++ is the place u write c, c++ program
 
 Ctrl+Shift+B         進行編譯
 
-Ctrl+Shift+`         開啟終端機, ` is near u '1' on u keyboard
+Ctrl+Shift+`       開啟終端機,  ``is near u '1' on u keyboard
 
 ./???.exe+Enter      執行程式, ??? is u program name
